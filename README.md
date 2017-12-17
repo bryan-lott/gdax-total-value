@@ -31,6 +31,10 @@ At least some of this code (specifically the authentication with Gdax) was taken
 from or inspired by https://github.com/weissjeffm/gdax-bot.  Really nifty bot (that
 I don't entirely understand yet) that you should check out.
 
+## Contributing
+
+Fork + Branch and create a PR, open an issue, or start a conversation!
+
 ## Requirements
 
 * Gdax API key with the `View` permission.
